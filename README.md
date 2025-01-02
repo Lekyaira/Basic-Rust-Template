@@ -7,15 +7,14 @@ Clone the repo and run either
 nix-shell
 ```
 for the shell environment or 
-
-```echo "use nix" > .envrc```
-
+```
+echo "use nix" > .envrc
+```
 if using `direnv`
-
 Then run:
-
-```cargo init```
-
+```
+cargo init
+```
 This will set up the basic Rust Hello app. Just edit your code from there!
 
 ## Utilities
