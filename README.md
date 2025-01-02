@@ -3,9 +3,9 @@ A basic Rust template using Nix.
 
 ## Setup
 Clone the repo and run either
-
-```nix-shell```
-
+```
+nix-shell
+```
 for the shell environment or 
 
 ```echo "use nix" > .envrc```
