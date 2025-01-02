@@ -8,7 +8,7 @@ nix-shell
 ```
 for the shell environment or 
 ```
-echo "use nix" > .envrc
+echo "use nix" > .envrc && direnv allow
 ```
 if using `direnv`
 Then run:
